@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nx/qnMjycNqIAEvJVjG/9e6ZkIUvptiy7zW2j3rQo8O3YULRCcDKmijTfgkYnblYTwLb4SjaHtdxhNCW0LfcgQ==",
+  "success": true,
+  "projectFilePath": "/home/zero/dev/CSharp/playlist-manager/playlist-manager.csproj",
+  "expectedPackageFiles": [
+    "/home/zero/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/zero/.nuget/packages/system.commandline/2.0.0-beta4.22272.1/system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "/home/zero/.nuget/packages/system.commandline.dragonfruit/0.4.0-alpha.22272.1/system.commandline.dragonfruit.0.4.0-alpha.22272.1.nupkg.sha512",
+    "/home/zero/.nuget/packages/system.commandline.namingconventionbinder/2.0.0-beta4.22272.1/system.commandline.namingconventionbinder.2.0.0-beta4.22272.1.nupkg.sha512",
+    "/home/zero/.nuget/packages/system.commandline.rendering/0.4.0-alpha.22272.1/system.commandline.rendering.0.4.0-alpha.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
